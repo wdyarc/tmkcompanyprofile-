@@ -1,2 +1,3 @@
-# Static Website : Company Profile - Taman Nasional Komodo  
-[static-website's](https://wdyarc.github.io/tnkcompanyprofile/)
+# Static Website : 
+
+you can see deploy : [Company Profile - Taman Nasional Komodo's](https://wdyarc.github.io/tnkcompanyprofile/)
